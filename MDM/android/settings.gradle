@@ -1,0 +1,3 @@
+rootProject.name = 'MDM'
+
+include ':app'
